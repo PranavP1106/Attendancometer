@@ -1,0 +1,10 @@
+input{
+    margin: 10px;
+}
+#Sort_button{
+    display: none;
+margin: 20px;
+}
+body{
+    background:linear-gradient(red 0%, blue 100%);
+}
